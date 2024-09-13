@@ -1,3 +1,3 @@
 # demo
 this is my first repositories
-Author Prajwal Rajput
+Author Prajwal Ajit Rajput
